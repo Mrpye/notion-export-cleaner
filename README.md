@@ -15,7 +15,7 @@ you will need to install go 1.8 [https://go.dev/doc/install](https://go.dev/doc/
 ## How to install
 
 ```yaml
-go install https://github.com/Mrpye/notion-export-cleaner
+go install github.com/Mrpye/notion-export-cleaner
 ```
 
 ## How to run

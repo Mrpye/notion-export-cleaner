@@ -39,3 +39,6 @@ Export your document from [notion.io](http://notion.io) and clean
 ```yaml
 notion-export-cleaner "./export.zip" "./exported"
 ```
+
+## License
+Notion.io cleane is Apache 2.0 licensed.

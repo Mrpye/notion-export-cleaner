@@ -41,4 +41,4 @@ notion-export-cleaner "./export.zip" "./exported"
 ```
 
 ## License
-Notion.io cleane is Apache 2.0 licensed.
+Notion.io cleaner is Apache 2.0 licensed.

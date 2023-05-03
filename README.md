@@ -10,7 +10,7 @@ So hence this tool that simply extracts the files from the zip and removes the G
 
 ## Requirements
 
-you will need to install go 1.8 [https://go.dev/doc/install](https://go.dev/doc/install)
+you will need to install go 1.20 [https://go.dev/doc/install](https://go.dev/doc/install)
 
 ## How to install
 
@@ -37,5 +37,16 @@ Export your document from [notion.io](http://notion.io) and clean
 1. Clean the exported file
 
 ```yaml
-notion-export-cleaner "./export.zip" "./exported"
+notion-export-cleaner clean "./export.zip" "./exported"
 ```
+
+---
+
+# History
+## v1.0.0
+  
+    - First Release
+  
+## v1.0.1
+    - Fix documentation
+    - Updated to use golang 1.20 

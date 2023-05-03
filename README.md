@@ -42,11 +42,14 @@ notion-export-cleaner clean "./export.zip" "./exported"
 
 ---
 
-# History
-## v1.0.0
+## History
+### v1.0.0
   
     - First Release
   
-## v1.0.1
+### v1.0.1
     - Fix documentation
     - Updated to use golang 1.20 
+
+## License
+Notion.io cleaner is Apache 2.0 licensed.
